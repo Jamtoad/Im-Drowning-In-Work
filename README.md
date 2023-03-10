@@ -10,4 +10,4 @@ Introducing an extremely simple work scheduler. It is setup for a 10-6 which is 
 https://jamtoad.github.io/Im-Drowning-In-Work/
 
 ## Website Screenshot
-![image](https://user-images.githubusercontent.com/65873272/222023408-cb62a01a-0b21-4a00-a434-543cae63e82b.png)
+![image](https://user-images.githubusercontent.com/65873272/224389290-c124ca11-f6c4-47b3-8fde-b0b3fecfdd04.png)
