@@ -14,7 +14,9 @@ function updateTimeBlocks() {
 
   for (let index = 0; index < timeBlocks.length; index++) {
     let currentChild = $(timeBlocks).eq(index)
-    let timeBlockTime = Number($(currentChild).attr("id").split("-"))
+    let timeBlockTime = Number($(currentChild).attr("id").split("-")[1])
+
+    console.log(currentHour, timeBlockTime)
 
     if (currentHour > timeBlockTime) {
       $(currentChild).addClass("past")
